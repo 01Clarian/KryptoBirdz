@@ -75,8 +75,8 @@ const Hero = ({
         <iframe style={{marginLeft:'25px'}} src='https://opensea.io/collection/kryptobirdz-official?embed=true%22'
         width='90%'
         height='800px'
-        frameborder='10'
-        allowfullscreen></iframe>
+        frameBorder='10'
+        AllowFullScreen></iframe>
           </div>
         </div>
       </div>

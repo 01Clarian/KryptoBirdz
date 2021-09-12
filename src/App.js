@@ -13,6 +13,7 @@ import Home from './views/Home';
 // Initialize Google Analytics
 ReactGA.initialize(process.env.REACT_APP_GA_CODE);
 ReactGA.initialize(process.env.GA_TRACKING_ID);
+ReactGA.initialize({ trackingId: process.env.TRACKING_ID });
 
 const trackPage = page => {
   ReactGA.set({ page });
