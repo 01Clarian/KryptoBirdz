@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/01Clarian/KryptoBirdz/static/css/main.6225cb0f.chunk.css",
+    "main.js": "/01Clarian/KryptoBirdz/static/js/main.fcf46446.chunk.js",
+    "main.js.map": "/01Clarian/KryptoBirdz/static/js/main.fcf46446.chunk.js.map",
+    "runtime-main.js": "/01Clarian/KryptoBirdz/static/js/runtime-main.1f7c77b0.js",
+    "runtime-main.js.map": "/01Clarian/KryptoBirdz/static/js/runtime-main.1f7c77b0.js.map",
+    "static/js/2.98d9506d.chunk.js": "/01Clarian/KryptoBirdz/static/js/2.98d9506d.chunk.js",
+    "static/js/2.98d9506d.chunk.js.map": "/01Clarian/KryptoBirdz/static/js/2.98d9506d.chunk.js.map",
+    "index.html": "/01Clarian/KryptoBirdz/index.html",
+    "precache-manifest.545c8bf858b317d3015aac811d5d59d9.js": "/01Clarian/KryptoBirdz/precache-manifest.545c8bf858b317d3015aac811d5d59d9.js",
+    "service-worker.js": "/01Clarian/KryptoBirdz/service-worker.js",
+    "static/css/main.6225cb0f.chunk.css.map": "/01Clarian/KryptoBirdz/static/css/main.6225cb0f.chunk.css.map",
+    "static/js/2.98d9506d.chunk.js.LICENSE.txt": "/01Clarian/KryptoBirdz/static/js/2.98d9506d.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/01Clarian/KryptoBirdz/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-03.svg": "/01Clarian/KryptoBirdz/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/features-split-image-01.png": "/01Clarian/KryptoBirdz/static/media/features-split-image-01.be3b7620.png",
+    "static/media/features-split-image-02.png": "/01Clarian/KryptoBirdz/static/media/features-split-image-02.724b040f.png",
+    "static/media/features-split-image-03.png": "/01Clarian/KryptoBirdz/static/media/features-split-image-03.c4c533fb.png",
+    "static/media/logo.svg": "/01Clarian/KryptoBirdz/static/media/logo.2810a88b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f7c77b0.js",
+    "static/js/2.98d9506d.chunk.js",
+    "static/css/main.6225cb0f.chunk.css",
+    "static/js/main.fcf46446.chunk.js"
+  ]
+}
