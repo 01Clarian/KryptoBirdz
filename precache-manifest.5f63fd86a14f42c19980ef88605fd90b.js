@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f57f43bbc7c505cfc426efc6aedc459d",
+    "revision": "533582204e9b5b92c30c465ae69e0e5b",
     "url": "/KryptoBirdz/index.html"
   },
   {
-    "revision": "3be59a5659817d6f141e",
+    "revision": "9dc014981f08edc66b77",
     "url": "/KryptoBirdz/static/css/main.affd0405.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KryptoBirdz/static/js/2.98d9506d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3be59a5659817d6f141e",
-    "url": "/KryptoBirdz/static/js/main.a8e0f27c.chunk.js"
+    "revision": "9dc014981f08edc66b77",
+    "url": "/KryptoBirdz/static/js/main.6118209e.chunk.js"
   },
   {
     "revision": "3e59eb22ac24eb9c80e8",
