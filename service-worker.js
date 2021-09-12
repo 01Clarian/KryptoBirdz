@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KryptoBirdz/precache-manifest.512f95b99fabe78801888131165cbb6c.js"
+  "/KryptoBirdz/precache-manifest.f36d1a868c129b1ac79db9fb55cc7009.js"
 );
 
 self.addEventListener('message', (event) => {
