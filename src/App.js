@@ -11,9 +11,10 @@ import LayoutDefault from './layouts/LayoutDefault';
 import Home from './views/Home';
 
 // Initialize Google Analytics
-ReactGA.initialize(process.env.REACT_APP_GA_CODE);
-ReactGA.initialize(process.env.GA_TRACKING_ID);
 ReactGA.initialize({ trackingId: process.env.TRACKING_ID });
+// ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+// ReactGA.initialize(process.env.GA_TRACKING_ID);
+
 
 const trackPage = page => {
   ReactGA.set({ page });
@@ -38,7 +39,7 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute exact path="/KryptoBirdz" component={Home} layout={LayoutDefault} />
         </Switch>
       )} />
   );

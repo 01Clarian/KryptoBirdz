@@ -72,7 +72,7 @@ const Hero = ({
             </div>
           </div>
           <div className="hero-figure" data-reveal-value="20px" data-reveal-delay="800">
-        <iframe style={{marginLeft:'25px'}} src='https://opensea.io/collection/kryptobirdz-official?embed=true%22'
+        <iframe style={{marginLeft:'-5px'}} src='https://opensea.io/collection/kryptobirdz-official?embed=true%22'
         width='90%'
         height='800px'
         frameBorder='10'

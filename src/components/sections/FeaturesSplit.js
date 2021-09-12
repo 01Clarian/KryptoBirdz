@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: '',
-    paragraph: 'Originally, they were impossible to claim prior to their existence, but now that they exist they are available for purchase. They must be purchased from who also has a valid address on the blockchain and gas available for purchase. Via this market you can buy, bid on, and offer KryptoBirdz in all their unholy glory for sale.'
+    paragraph: 'Originally, they were impossible to claim prior to their existence, but now that they exist they are available for purchase. They must be purchased from those whohave valid address on the blockchain and gas available. Via this market you can buy, bid on, and offer KryptoBirdz for sale.'
   };
 
   return (
@@ -61,7 +61,7 @@ const FeaturesSplit = ({
     >
       <div className="container ">
         <div className={innerClasses}>
-          <h1 style={{textAlign:'center'}} className='multicolortext2'>First 50 unique collectible Released</h1>
+          <h1 style={{textAlign:'center'}} className='multicolortext2'>First 50 unique collectibles Released</h1>
           <SectionHeader  data={sectionHeader} className="center-content " />
           <div className={splitClasses}>
 
@@ -75,7 +75,7 @@ const FeaturesSplit = ({
                   </h3>
                 <p className="m-0">
                   Our Birdz comprise of pixelated anatomized components that are dynamically inflated and deflated and responsive to their counterparts with maximum derived limitations. These parts include: mouth, eyes, head and beak...
-                  These heads are then presupposed to 'human' composed body. 
+                  
                   </p>
               </div>
               <div className={
@@ -101,7 +101,7 @@ const FeaturesSplit = ({
                   Birdz Are A Hybrid built of generated skeletal faces superposed upon bodies.
                   </h3>
                 <p className="m-0">
-                  All parts of the birdz are optional to generate except for the face component which is mandatory. For every attribute there is a matching img with index value starting at 0.
+                  All parts of the birdz are optional to generate except for the face component which is mandatory. For every attribute there is a matching img with an index value starting at 0.
                   </p>
               </div>
               <div className={
