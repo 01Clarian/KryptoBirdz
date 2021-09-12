@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KryptoBirdz/static/css/main.affd0405.chunk.css",
-    "main.js": "/KryptoBirdz/static/js/main.fcc125ad.chunk.js",
-    "main.js.map": "/KryptoBirdz/static/js/main.fcc125ad.chunk.js.map",
+    "main.js": "/KryptoBirdz/static/js/main.a8e0f27c.chunk.js",
+    "main.js.map": "/KryptoBirdz/static/js/main.a8e0f27c.chunk.js.map",
     "runtime-main.js": "/KryptoBirdz/static/js/runtime-main.92a00003.js",
     "runtime-main.js.map": "/KryptoBirdz/static/js/runtime-main.92a00003.js.map",
     "static/js/2.98d9506d.chunk.js": "/KryptoBirdz/static/js/2.98d9506d.chunk.js",
     "static/js/2.98d9506d.chunk.js.map": "/KryptoBirdz/static/js/2.98d9506d.chunk.js.map",
     "index.html": "/KryptoBirdz/index.html",
-    "precache-manifest.47e3a67f9775353af2ee2abd0d925321.js": "/KryptoBirdz/precache-manifest.47e3a67f9775353af2ee2abd0d925321.js",
+    "precache-manifest.ba265aa09fad2f7967aa1196f7154dfb.js": "/KryptoBirdz/precache-manifest.ba265aa09fad2f7967aa1196f7154dfb.js",
     "service-worker.js": "/KryptoBirdz/service-worker.js",
     "static/css/main.affd0405.chunk.css.map": "/KryptoBirdz/static/css/main.affd0405.chunk.css.map",
     "static/js/2.98d9506d.chunk.js.LICENSE.txt": "/KryptoBirdz/static/js/2.98d9506d.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.92a00003.js",
     "static/js/2.98d9506d.chunk.js",
     "static/css/main.affd0405.chunk.css",
-    "static/js/main.fcc125ad.chunk.js"
+    "static/js/main.a8e0f27c.chunk.js"
   ]
 }
