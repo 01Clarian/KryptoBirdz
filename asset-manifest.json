@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/KryptoBirdz/static/css/main.affd0405.chunk.css",
-    "main.js": "/KryptoBirdz/static/js/main.914c46a9.chunk.js",
-    "main.js.map": "/KryptoBirdz/static/js/main.914c46a9.chunk.js.map",
+    "main.js": "/KryptoBirdz/static/js/main.8ac89d58.chunk.js",
+    "main.js.map": "/KryptoBirdz/static/js/main.8ac89d58.chunk.js.map",
     "runtime-main.js": "/KryptoBirdz/static/js/runtime-main.92a00003.js",
     "runtime-main.js.map": "/KryptoBirdz/static/js/runtime-main.92a00003.js.map",
     "static/js/2.98d9506d.chunk.js": "/KryptoBirdz/static/js/2.98d9506d.chunk.js",
     "static/js/2.98d9506d.chunk.js.map": "/KryptoBirdz/static/js/2.98d9506d.chunk.js.map",
     "index.html": "/KryptoBirdz/index.html",
-    "precache-manifest.9e36dd8e56d571787bba23b9a557c255.js": "/KryptoBirdz/precache-manifest.9e36dd8e56d571787bba23b9a557c255.js",
+    "precache-manifest.ec4a0cf5a4a07e4a3213e209cc513ea6.js": "/KryptoBirdz/precache-manifest.ec4a0cf5a4a07e4a3213e209cc513ea6.js",
     "service-worker.js": "/KryptoBirdz/service-worker.js",
     "static/css/main.affd0405.chunk.css.map": "/KryptoBirdz/static/css/main.affd0405.chunk.css.map",
     "static/js/2.98d9506d.chunk.js.LICENSE.txt": "/KryptoBirdz/static/js/2.98d9506d.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/KryptoBirdz/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-03.svg": "/KryptoBirdz/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/features-split-image-01.png": "/KryptoBirdz/static/media/features-split-image-01.be3b7620.png",
+    "static/media/features-split-image-01.png": "/KryptoBirdz/static/media/features-split-image-01.07e91b4c.png",
     "static/media/features-split-image-02.png": "/KryptoBirdz/static/media/features-split-image-02.724b040f.png",
     "static/media/features-split-image-03.png": "/KryptoBirdz/static/media/features-split-image-03.c4c533fb.png",
     "static/media/logo.svg": "/KryptoBirdz/static/media/logo.2810a88b.svg"
@@ -23,6 +23,6 @@
     "static/js/runtime-main.92a00003.js",
     "static/js/2.98d9506d.chunk.js",
     "static/css/main.affd0405.chunk.css",
-    "static/js/main.914c46a9.chunk.js"
+    "static/js/main.8ac89d58.chunk.js"
   ]
 }

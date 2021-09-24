@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a421bd30d7058609817ff0e653b57b62",
+    "revision": "a5150e6db9d0816ce5e747903241b324",
     "url": "/KryptoBirdz/index.html"
   },
   {
-    "revision": "487c824b43123056dade",
+    "revision": "b33dc1db0c3c0a018207",
     "url": "/KryptoBirdz/static/css/main.affd0405.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KryptoBirdz/static/js/2.98d9506d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "487c824b43123056dade",
-    "url": "/KryptoBirdz/static/js/main.914c46a9.chunk.js"
+    "revision": "b33dc1db0c3c0a018207",
+    "url": "/KryptoBirdz/static/js/main.8ac89d58.chunk.js"
   },
   {
     "revision": "3e59eb22ac24eb9c80e8",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KryptoBirdz/static/media/feature-tile-icon-03.66f37ba5.svg"
   },
   {
-    "revision": "be3b762085baf086cbed89ed9149a956",
-    "url": "/KryptoBirdz/static/media/features-split-image-01.be3b7620.png"
+    "revision": "07e91b4c8da53d1ce0a2980f0ee2b7b5",
+    "url": "/KryptoBirdz/static/media/features-split-image-01.07e91b4c.png"
   },
   {
     "revision": "724b040fc32edc4a849f08524ccf1462",
